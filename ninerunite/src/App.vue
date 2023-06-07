@@ -6,7 +6,7 @@
       <router-link to="/logIn">Login</router-link>
     </nav> -->
     <Header />
-  <router-view/>
+  <!-- <router-view/> -->
 </template>
 
 <script>
@@ -15,6 +15,7 @@ export default {
   components:{
     Header
   }
+  //this is a test
 }
 </script>
 

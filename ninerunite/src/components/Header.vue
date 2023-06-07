@@ -9,10 +9,10 @@
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="navbar-nav ms-auto gap-3">
                 <li class="nav-item d-grid">
-                <router-link to="/signUp" class="btn nav-bar-btn-color">Sign Up</router-link>
+                    <router-link to="/signUp" class="btn nav-bar-btn-color">Sign Up</router-link>
                 </li>
                 <li class="nav-item d-grid">
-                <router-link to="/logIn" class="btn nav-bar-btn-color">Login</router-link>
+                    <router-link to="/logIn" class="btn nav-bar-btn-color">Login</router-link>
                 </li>
             </ul>
             </div>
